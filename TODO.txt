@@ -27,6 +27,8 @@ Tweak the territories to match param string and
 fix up the Left(8) truncation.					Pending
 Enable form1 exit button					Pending
 Add the internal/external flag to all screens and search.	Pending
+Build an installer.						Pending
+Find an icon.							Pending
 
 'tpearson@indium.com;lclark@indium.com;jerry@ernorth.com;steve@ernorth.com;will@ernorth.com'
 
