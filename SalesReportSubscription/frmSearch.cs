@@ -75,6 +75,10 @@ namespace SalesReportSubscription
                         FormatGrid(irecd_cnt);
 
                     }
+                    else
+                    {
+                        MessageBox.Show("No subscriptions found. Try being less specific on the search value.", "Subscription Search");
+                    }
                 }
             }
             catch (Exception ex)
