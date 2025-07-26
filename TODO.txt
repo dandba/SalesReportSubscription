@@ -30,6 +30,13 @@ Add the internal/external flag to all screens and search.	Pending
 Build an installer.						Pending
 Find an icon.							Pending
 
-'tpearson@indium.com;lclark@indium.com;jerry@ernorth.com;steve@ernorth.com;will@ernorth.com'
+DEL Product Family	Referred to Brad/ERP
+Matt Two Tables
+Material costs
+Job Packet Report	Waiting on test results. Try to enlarge barcode
+Theresa Sales report timing change
+Cube change of addresses
+ssl issues
+Tracing sales transactions
 
-
+Downfall
