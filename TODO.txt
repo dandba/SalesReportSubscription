@@ -1,0 +1,42 @@
+TODO
+Add other reports and their stored procedures.
+Late orders was enabled to test the email edit feature. Ticket 122762.
+Disabled now until the stored procedure for new subscription is ready.
+
+Add search features with a result display.
+Add Search by territory.					Done
+
+Create new field Territory and copy email name in to it. 	Done
+Map datagrid column territory to field territory. 		Done
+Rename emailname to FilePrefix					Done
+Change FilePrefix build to accommodate no territory specified.	Pending
+Revise add subscription stored procedures for email name 
+change to file prefix.						Pending
+Change runsalesreports stored procedures to remove 
+unused parameters ([reportname], [emailto], [emailcc],
+[excelpwd]) and change the emailname to match the new
+name fileprefix.						Done
+Test the report run and distribution.				Done
+
+Assess the impact to the rest of the subscription app and 
+revise accordingly.						Pending
+Test the subscription app by revising ER North from 
+ElectriR (territory, filename and file prefix)			Done
+Add new estimates for ER North. 				Done
+Tweak the territories to match param string and 
+fix up the Left(8) truncation.					Pending
+Enable form1 exit button					Pending
+Add the internal/external flag to all screens and search.	Pending
+Build an installer.						Pending
+Find an icon.							Pending
+
+DEL Product Family	Referred to Brad/ERP
+Matt Two Tables
+Material costs
+Job Packet Report	Waiting on test results. Try to enlarge barcode
+Theresa Sales report timing change
+Cube change of addresses
+ssl issues
+Tracing sales transactions
+
+Downfall
