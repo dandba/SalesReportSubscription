@@ -16,6 +16,7 @@ namespace SalesReportSubscription
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            //Load Interface dropdowns
             ListReports();
             LoadGrid();
             FormatGrid();
